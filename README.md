@@ -14,3 +14,6 @@
 3. **Seguimiento del Estado de Ánimo:** Registro diario del estado de ánimo y síntomas para identificar patrones y desencadenantes.
 4. **Comunidades de Apoyo:** Foros y grupos de apoyo donde los estudiantes puedan compartir experiencias y consejos.
 5. **Recursos Educativos:** Artículos, videos y podcasts sobre salud mental y técnicas de manejo del estrés.
+
+# HERRAMIENTAS A UTILIZAR 
+**TRELLO** https://trello.com/b/zsUhCzeT/zenit
