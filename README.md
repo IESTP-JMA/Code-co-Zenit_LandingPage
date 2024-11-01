@@ -1,11 +1,11 @@
 # PROBLEMA
 ## Mejora de la Salud Mental en los estudiante
 
-# Descripción del Problema
+# Descripción del Problema🫂
  La salud mental de los estudiantes  una preocupación creciente. Muchos estudiantes experimentan altos niveles de estrés, ansiedad y depresión debido a la presión académica, problemas financieros y la falta de apoyo emocional. Identificar formas efectivas de mejorar la salud mental de los estudiantes es crucial para su bienestar y éxito académico.
 
 # SOLUCION
-## Aplicación de Apoyo Emocional y Gestión del Estrés para Estudiantes
+## Aplicación de Apoyo Emocional y Gestión del Estrés para Estudiantes🧑‍⚕️🧑‍🎓
 
  Desarrollar una aplicación móvil que ofrezca recursos y herramientas para ayudar a los estudiantes a gestionar el estrés y mejorar su salud mental. La aplicación podría incluir las siguientes características:
 
@@ -16,4 +16,8 @@
 5. **Recursos Educativos:** Artículos, videos y podcasts sobre salud mental y técnicas de manejo del estrés.
 
 # HERRAMIENTAS A UTILIZAR 
-**TRELLO** https://trello.com/b/zsUhCzeT/zenit
+- **REFLEX**
+- **PYTHON**
+- **GITHUB**
+- **DISCORD**
+- **TRELLO** https://trello.com/b/zsUhCzeT/zenit
