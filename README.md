@@ -20,4 +20,13 @@
 - **PYTHON**
 - **GITHUB**
 - **DISCORD**
-- **TRELLO** https://trello.com/b/zsUhCzeT/zenit
+- **TRELLO** 
+
+## COLABORADORES
+|NOMBRE|USUARIO|
+|---------|-------|
+|BRETMER CONDORI HUAMANTOMA|@bretmer|
+|PERCY YARIHUAMAN MITMA|@Percyyz|
+|WILLIAM BARRIENTOS SARMIENTO|@sarmiento13|
+|ERICK HUAMANI CCAHUAY|@huamaniERICK|
+|
