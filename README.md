@@ -25,8 +25,8 @@
 ## COLABORADORES
 |NOMBRE|USUARIO|
 |---------|-------|
-|BRETMER CONDORI HUAMANTOMA|@bretmer|
-|PERCY YARIHUAMAN MITMA|@Percyyz|
-|WILLIAM BARRIENTOS SARMIENTO|@sarmiento13|
-|ERICK HUAMANI CCAHUAY|@huamaniERICK|
+|BRETMER CONDORI HUAMANTOMA|https://github.com/bretmer|
+|PERCY YARIHUAMAN MITMA|https://github.com/Percyyz|
+|WILLIAM BARRIENTOS SARMIENTO|https://github.com/sarmiento13|
+|ERICK HUAMANI CCAHUAY|https://github.com/huamaniERICK|
 |
