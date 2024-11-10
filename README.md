@@ -30,3 +30,6 @@
 |WILLIAM BARRIENTOS SARMIENTO|https://github.com/sarmiento13|
 |ERICK HUAMANI CCAHUAY|https://github.com/huamaniERICK|
 |
+## METODOLOGIA DE TRABAJO
+- Scrum
+- XP(eXtreming Programing)
