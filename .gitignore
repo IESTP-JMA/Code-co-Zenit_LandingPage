@@ -5,3 +5,4 @@
 .zenit
 __pycache__/
 assets/external/
+.venv-back
