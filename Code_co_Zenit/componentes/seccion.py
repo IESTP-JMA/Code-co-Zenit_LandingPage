@@ -3,7 +3,7 @@ import reflex as rx
 def seccion() -> rx.Component:
   return rx.vstack(
       rx.heading(
-          rx.text("La única aplicación que necesitas para tener una mejor salud mental",size="8",color=rx.color("blue", 10),text_shadow="1px 1px 1px white")
+          rx.text("La única aplicación que necesitas para tener una mejor salud mental",size="8",color=rx.color("blue", 10),box_shadow="2px 2px 2px blue")
       ),
       rx.container(
           rx.hstack(
@@ -30,5 +30,4 @@ def seccion() -> rx.Component:
       text_align="center",
       height="676px",
       background=rx.color("slate",5),
-      #background="linear-gradient(175deg, #a1f6b2, #a5f2d0)"
   )
