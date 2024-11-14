@@ -21,6 +21,34 @@
 - **GITHUB**
 - **DISCORD**
 - **TRELLO** 
+## CREACION DE PASO A PASO DE MI PROYECTO
+para instalar y ejecutra la landing page de esta aplicacion se realizra los siguientes pasos.
+
+- clonar el repsitorio
+```bash
+git clone https://github.com/IESTP-JMA/upskill-landing-page-python.git
+```
+- acceder a la carpeta del repositorio creado
+```bash
+cd upskill-landing-page-python
+```
+- crear el entorno virtual
+```bash
+python -m venv .venv
+```
+- activar nuestro entorno virtual
+```bash
+source .venv/Scripts/activate
+```
+- instalar dependecias
+```bash
+pip install -r requirements.txt
+```
+- Iniciar el servidor web
+```bash
+reflex run
+```
+- abrir proyecto en el navegador copian la url mostrada en la terminal una vez se haya iniciado el servidor por lo general es el siguiente http://localhost:3000
 
 ## COLABORADORES
 |NOMBRE|USUARIO|
